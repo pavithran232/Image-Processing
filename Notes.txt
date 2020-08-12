@@ -1,0 +1,45 @@
+Installations 
+
+opencv-python
+opencv-contrib-python
+Keraas
+tensorflow
+pillow
+matplotlib
+flask
+numpy
+pandas
+flask_opencv_streamer
+imutils
+
+
+
+
+
+-----https://github.com/fchollet/deep-learning-models/releases/download/v0.6/mobilenet_1_0_224_tf_no_top.h5
+
+models
+optimizer - Adam
+emotion - 28.3% {early stop patience - 3,ReduceLROnPlateau patience - 3, activation - elu, optimizer - Adam}
+emotion1 - 58.8% {early stop patience - 12,ReduceLROnPlateau patience - 3, activation - elu, optimizer - Adam}
+emotion2 - 55.7% {early stop patience - 9,ReduceLROnPlateau patience - 3, activation - relu, optimizer - RMSprop}
+
+
+
+
+
+
+
+
+Bookmarks-------
+https://github.com/pranavpandya84/mapreduce
+https://github.com/jlyang1990/MapReduce
+https://www.kdnuggets.com/2019/01/automated-machine-learning-python.html
+https://machinelearningmastery.com/compare-machine-learning-algorithms-python-scikit-learn/
+https://automl.github.io/auto-sklearn/master/
+https://www.datacamp.com/community/tutorials/machine-learning-models-api-python
+https://towardsdatascience.com/create-an-api-to-deploy-machine-learning-models-using-flask-and-heroku-67a011800c50
+https://medium.com/neuralspace/kaggle-1-winning-approach-for-image-classification-challenge-9c1188157a86
+https://towardsdatascience.com/boost-your-cnn-image-classifier-performance-with-progressive-resizing-in-keras-a7d96da06e20
+https://shaoanlu.wordpress.com/2017/05/29/sgd-all-which-one-is-the-best-optimizer-dogs-vs-cats-toy-experiment/
+https://www.pyimagesearch.com/2019/09/02/opencv-stream-video-to-web-browser-html-page/
